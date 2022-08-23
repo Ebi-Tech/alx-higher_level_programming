@@ -1,6 +1,6 @@
 /*
  * File: 13-insert_number.c
- * Auth: Brennan D Baraban
+ * Auth: Divine Ifechukwude
  */
 
 #include "lists.h"
