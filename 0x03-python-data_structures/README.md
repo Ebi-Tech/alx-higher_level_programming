@@ -1,5 +1,5 @@
 # 0x03. Python - Data Structures: Lists, Tuples
-#Author: Divine Ifechukwude <https://github.com/Ebi-Tech>
+# Author: Divine Ifechukwude <https://github.com/Ebi-Tech>
 
 ## Table of contents
 Files | Description
